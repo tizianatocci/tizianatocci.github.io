@@ -4,6 +4,12 @@ title: Tiziana Tocci Website
 ---
 
 # Welcome to my website!
+
+<div style="text-align: center; margin: 30px 0; font-weight: bold; color: #d9534f;">
+  🚧 Work in Progress 🚧
+</div>
+
+<br>
 <div style="text-align: center;">
   <img src="images/img.png" alt="Image" width="200" />
    <div style="text-align: left; margin-top: 10px;">
