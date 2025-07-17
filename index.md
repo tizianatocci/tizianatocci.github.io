@@ -6,7 +6,7 @@ title: Tiziana Tocci Website
 # Welcome to my website!
 <div style="text-align: center;">
   <img src="images/img.png" alt="Image" width="200" />
-   <div>
+   <div style="text-align: left; margin-top: 10px;">
       Hello, I am Tiziana Tocci, a PhD Candidate at Institut Curie.  <br>
       I am a young researcher enthusiastic about subjects at the interface between biology and informatics.<br>
       I am currently conducting my doctoral project at Institut Curie, under the supervision of Hervé Isambert and Pascal Hersen.<br>
