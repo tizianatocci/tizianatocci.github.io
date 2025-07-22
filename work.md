@@ -6,7 +6,7 @@ permalink: /work/
 
 My passion for Deep Learning and Image Analysis, developed during my academic studies, led me to pursue an initial internship in image analysis, which I undertook alongside the early stages of my Master’s thesis.  
 After my graduation, I gained further experience in Data Analysis under an industry point of view with a focus on ETL, cloud, programming.  
-I decided to purse a PhD in bioinformatics to acquire a deeper knowledge on a new and complex field: causality applied to biological data. During this time, I also worked as a practical teacher in biological network reconstruction.
+I decided to purse a PhD in bioinformatics to acquire a deeper knowledge on a new and complex field: causality applied to biological data. As complementary activities, I helped in the organization of two international scientific courses at Curie (Multiscale Course 2023, Pediatric Course 2023) and I am member and coordinator of the Young Researchers Seminar team of my Unit. During this time, I also worked as a practical teacher in biological network reconstruction. 
 
 - 10/2022 - ongoing, Paris: **PhD Candidate** at **Institut Curie**  
 EuReCa International PhD program (Marie Słodowska-Curie program).  
@@ -14,6 +14,7 @@ Field: Bioinformatics.
 Project: **Causal Inference for live cell imaging and single cell multi-omics data**  
 Data analysis: **segmentation**, **detection** and **tracking** of cells, extraction of **statistical features**; **single cell transcriptomics analysis**; application of **causal discovery algorithms**.  
 Python libraries often used: numpy; pandas; matplotlib; skimage; scipy; opencv; tensorflow; utralytics, cellpose (pytorch); cupy  
+Other activies: organization of scientific international courses at Curie; Young Researcher Seminar team (member and coordinator)
 
 - 09/2024 - 11/2024, Paris: **Practical Teacher** at **Sorbonne Université**
 **Biological networks** and systems biology course.  
