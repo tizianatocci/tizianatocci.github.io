@@ -1,5 +1,3 @@
-# Presentations
-
 - November 2024, Paris, oral presentation at MeCaCELL3D meeting, Inserm Headquarters
 - May 2024, Paris, poster presentation at International Symposium of Institut Curie "From Basic Science to Cancer Research", Maison de la Chimie
 - February 2024, Lisbon, poster presentation at Physical Biology Circle Meeting, Gulbenkian Institut
