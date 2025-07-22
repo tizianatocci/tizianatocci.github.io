@@ -28,8 +28,8 @@ title: Tiziana Tocci Website
 
 [🎓 Education](education)  
 [👩‍🎓 Work Experience](work)  
-[📝 Publications](publications)
-[🎤 Presentations](presentations)
+[📝 Publications](publications)  
+[🎤 Presentations](presentations)  
 [📚 Courses: self-teaching](courses)  
 [🎨 Hobbies](hobbies)  
-[📬 Contacts](contacts)
+[📬 Contacts](contacts)  
