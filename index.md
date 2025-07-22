@@ -31,5 +31,4 @@ title: Tiziana Tocci Website
 [📝 Publications](publications)  
 [🎤 Presentations](presentations)  
 [📚 Courses: self-teaching](courses)  
-[🎨 Hobbies](hobbies)  
 [📬 Contacts](contacts)  
