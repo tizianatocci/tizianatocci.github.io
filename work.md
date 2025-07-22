@@ -1,4 +1,3 @@
-# Work Experience
 My passion for Deep Learning and Image Analysis, developed during my academic studies, led me to pursue an initial internship in image analysis, which I undertook alongside the early stages of my Master’s thesis.  
 After my graduation, I gained further experience in Data Analysis under an industry point of view with a focus on ETL, cloud, programming.  
 I decided to purse a PhD in bioinformatics to acquire a deeper knowledge on a new and complex field: causality applied to biological data. During this time, I also worked as a practical teacher in biological network reconstruction.
