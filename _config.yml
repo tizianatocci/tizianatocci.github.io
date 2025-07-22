@@ -1,2 +1,11 @@
 title: Tiziana Tocci
 theme: minima
+
+header_pages:
+  - index.md
+  - education.md
+  - work.md
+  - publications.md
+  - presentations.md
+  - courses.md
+  - contacts.md
