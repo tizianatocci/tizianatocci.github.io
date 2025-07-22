@@ -11,8 +11,8 @@ I decided to purse a PhD in bioinformatics to acquire a deeper knowledge on a ne
 - 10/2022 - ongoing, Paris: **PhD Candidate** at **Institut Curie**  
 EuReCa International PhD program (Marie Słodowska-Curie program).  
 Field: Bioinformatics.  
-Project: **Causal Inference for live cell imaging and single cell multi-omics data**
-Data analysis: segmentation, detection and tracking of cells, extraction of statistical features; single cell transcriptomics analysis; application of causal discovery algorithms.  
+Project: **Causal Inference for live cell imaging and single cell multi-omics data**  
+Data analysis: **segmentation**, **detection** and **tracking** of cells, extraction of **statistical features**; **single cell transcriptomics analysis**; application of **causal discovery algorithms**.  
 Python libraries often used: numpy; pandas; matplotlib; skimage; scipy; opencv; tensorflow; utralytics, cellpose (pytorch); cupy  
 
 - 09/2024 - 11/2024, Paris: **Practical Teacher** at **Sorbonne Université**
