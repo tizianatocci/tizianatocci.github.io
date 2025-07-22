@@ -3,6 +3,7 @@ layout: page
 title: Courses
 permalink: /courses/
 ---
+I am a curiosity-driven person; I find that dedicating  time to solo learning not only enriches my knowledge but also improves the quality of my work.
 
 - LLMs Mastery: Complete Guide to Transformers & Generative AI (Udemy)
 In progress
