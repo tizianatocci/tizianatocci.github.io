@@ -7,6 +7,7 @@ I had several experiences in presenting during my PhD.
 **Oral presentation** indicates a spoken presentation where I explained my scientific work to an audience with the support of slides.  
 A **Poster presentation** involves presenting a large printed poster that summarizes the scientific work, including context, objectives and results. During the poster session, I stood by the poster and I discussed with the researchers interested in my work.
 
+- February 2026, Toulouse, oral presentation at the PEPR MED-OOC Symposium, I2MC
 - November 2025, Paris, oral presentation at Adopt-AI Grand Palais: [Watch HERE](https://www.youtube.com/watch?v=o8OdgFwreks)  
 It was a cojoint presentation with my colleague Hasti Honari, as our abstract was selected among the five finalists for the scientific abstract session.  
 Go to the minute 22:30 to watch our presentation!
